@@ -1,0 +1,3 @@
+fichero.ruta=ud1/contactos.txt
+fichero.tipo=txt
+fichero.parser=tipo_parser
